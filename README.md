@@ -53,3 +53,26 @@ Business Insights├── README.md
 ├── sql/
 ├── excel/
 └── outputs/
+
+## 📁 Project Structure
+
+```text
+Securitisation-Data-Analysis/
+│
+├── data/
+│   └── securitisation_analysis_dataset.csv
+│
+├── python/
+│   └── analysis.py
+│
+├── sql/
+│   └── analysis_queries.sql
+│
+├── outputs/
+│   ├── analysis_summary.csv
+│   ├── benchmark_rate_by_program.png
+│   ├── credit_score_distribution.png
+│   └── verified_dti_distribution.png
+│
+├── README.md
+└── requirements.txt
