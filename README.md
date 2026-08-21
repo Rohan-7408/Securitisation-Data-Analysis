@@ -1,8 +1,15 @@
 # 📊 Securitisation Data Analysis
 
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![SQL](https://img.shields.io/badge/SQL-MySQL-orange)
+![Excel](https://img.shields.io/badge/Excel-Data%20Analysis-green)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+
 ## 📌 Project Overview
 
-This project analyzes securitisation-related data to identify patterns, trends, and meaningful business insights.
+This project focuses on analyzing securitisation-related data to identify patterns, trends, and meaningful business insights.
+
+The project demonstrates an end-to-end data analysis workflow including data preparation, exploratory analysis, visualization, SQL analysis, and business interpretation.
 
 ## 🎯 Objectives
 
@@ -10,24 +17,37 @@ This project analyzes securitisation-related data to identify patterns, trends, 
 - Perform exploratory data analysis
 - Analyze borrower and loan characteristics
 - Identify important trends and patterns
-- Generate business insights
-- Create useful visualizations
+- Analyze credit score and DTI distributions
+- Compare benchmark rates across loan programs
+- Generate meaningful business insights
 
 ## 🛠️ Tools & Technologies
 
-- 🐍 Python
-- 🐼 Pandas
-- 🔢 NumPy
-- 🗄️ SQL
-- 📊 Microsoft Excel
-- 📈 Data Visualization
+| Technology | Purpose |
+|---|---|
+| 🐍 Python | Data analysis and automation |
+| 🐼 Pandas | Data cleaning and manipulation |
+| 🔢 NumPy | Numerical analysis |
+| 🗄️ SQL | Data querying and analysis |
+| 📊 Excel | Data exploration and reporting |
+| 📈 Matplotlib | Data visualization |
 
-## 📂 Project Structure
+## 🔄 Analysis Workflow
 
 ```text
-Securitisation-Data-Analysis/
-│
-├── README.md
+Data Collection
+      ↓
+Data Cleaning
+      ↓
+Exploratory Data Analysis
+      ↓
+Statistical Analysis
+      ↓
+Data Visualization
+      ↓
+SQL Analysis
+      ↓
+Business Insights├── README.md
 ├── data/
 ├── python/
 ├── sql/
