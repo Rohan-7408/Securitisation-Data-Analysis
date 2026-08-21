@@ -1,0 +1,12 @@
+record_no,loan_program,application_date,benchmark_rate_pct,originator_dti_pct,tpr_verified_dti_pct,qm_dti_pct,employment_indicator,income_documentation_type,dscr_flag,tpr_dscr,originator_dscr,qualifying_credit_score,dti_difference_pct
+1,QM: Safe Harbor APOR (APOR SH),2024-07-15,6.43,0.0,37.36,37.36,Self-Employed,1YR Business P&L,No,,,700,0.0
+2,QM: Safe Harbor APOR (APOR SH),2024-08-29,6.36,0.0,34.91,34.91,Self-Employed,1YR Business P&L,No,,,743,0.0
+3,QM: Safe Harbor APOR (APOR SH),2024-05-13,6.78,0.0,48.94,48.94,Employed,Written Verification of Employment,No,,,776,0.0
+4,QM: Safe Harbor APOR (APOR SH),2025-04-28,6.92,0.0,25.23,25.23,Employed,2YR Full Doc,No,,,775,0.0
+5,Non-QM: Lender documented all ATR UW factors,2025-04-28,6.83,0.0,34.95,30.23,Self-Employed,12 Month Bank Statement,Yes,0.0,,771,4.72
+6,ATR/QM: Exempt,2025-04-23,,0.0,0.0,0.0,Unknown,Debt Service Coverage Ratio,Yes,1.112,1.175,751,0.0
+7,QM: Safe Harbor APOR (APOR SH),2024-11-11,6.67,0.0,10.1,10.1,Self-Employed,12 Month Bank Statement,No,,,711,0.0
+8,ATR/QM: Exempt,2025-04-21,,0.0,0.0,0.0,Unknown,Debt Service Coverage Ratio,Yes,0.779,0.778,793,0.0
+9,Non-QM: Lender documented all ATR UW factors,2025-04-21,6.77,0.0,20.1,18.03,Self-Employed,12 Month Bank Statement,Yes,,,704,2.07
+10,ATR/QM: Exempt,2025-02-18,,0.0,0.0,0.0,Unknown,Debt Service Coverage Ratio,Yes,1.146,1.14,795,0.0
+11,ATR/QM: Exempt,2025-02-18,,0.0,0.0,0.0,Unknown,Debt Service Coverage Ratio,Yes,0.919,0.91,775,0.0
