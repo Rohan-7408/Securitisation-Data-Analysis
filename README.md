@@ -76,3 +76,103 @@ Securitisation-Data-Analysis/
 │
 ├── README.md
 └── requirements.txt
+
+## 📊 Visualizations
+
+### Credit Score Distribution
+
+![Credit Score Distribution](outputs/credit_score_distribution.png)
+
+### Benchmark Rate by Loan Program
+
+![Benchmark Rate by Program](outputs/benchmark_rate_by_program.png)
+
+### Verified DTI Distribution
+
+![Verified DTI Distribution](outputs/verified_dti_distribution.png)
+
+## 🗄️ SQL Analysis
+
+The project includes SQL queries for analyzing the securitisation dataset.
+
+### Queries Covered
+
+- Total record count
+- Average qualifying credit score
+- Average verified DTI
+- Loan program distribution
+- Average benchmark rate by loan program
+- Credit score categorization
+- DSCR analysis
+- Employment indicator analysis
+
+The complete SQL queries are available in:
+
+`sql/analysis_queries.sql`
+
+## 📈 Key Analysis Areas
+
+### 💳 Credit Risk
+
+Analysis of qualifying credit scores to understand the credit profile of the records in the dataset.
+
+### 📊 Debt-to-Income Ratio
+
+Analysis of verified DTI values to understand borrower financial characteristics.
+
+### 🏦 Loan Programs
+
+Comparison of different loan programs and their characteristics.
+
+### 📉 Benchmark Rates
+
+Analysis of benchmark rates across different loan programs.
+
+### 💰 DSCR Analysis
+
+Analysis of Debt Service Coverage Ratio (DSCR) records to understand debt-service characteristics.
+
+## 💡 Business Insights
+
+The analysis provides a structured view of key securitisation-related characteristics and helps identify patterns that may support data-driven decision-making.
+
+### Key Observations
+
+- Credit scores can be analyzed to understand the overall credit profile of the records.
+- DTI analysis helps identify differences in borrower debt-to-income characteristics.
+- Loan program analysis helps compare the characteristics of different programs.
+- Benchmark rate analysis provides a basis for comparing rates across loan programs.
+- DSCR analysis helps examine debt-service characteristics where DSCR data is available.
+
+> **Note:** These observations are based on the current sample dataset and should not be interpreted as conclusions about the broader securitisation market.
+
+## 🚀 Future Improvements
+
+- Build an interactive Power BI dashboard
+- Add advanced SQL queries and analysis
+- Add more business KPIs
+- Perform deeper statistical analysis
+- Automate the data analysis workflow
+- Add additional datasets for comparison
+- Improve data visualization and reporting
+
+## 👨‍💻 Author
+
+**Akhand Pratap Vishwakarma**
+
+🎓 Computer Science & Engineering Graduate  
+📊 Aspiring Data Analyst | Business Analyst
+
+### 🛠️ Skills
+
+`Python` `SQL` `Excel` `Power BI` `MySQL` `Pandas` `NumPy` `Data Visualization`
+
+### 📫 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/akhand-pratap-vishwakarma-9a7356262/)
+- 🐙 [GitHub](https://github.com/Rohan-7408)
+- 📧 [Email](mailto:rohanvish78@gmail.com)
+
+---
+
+⭐ **Thank you for exploring this project!**
