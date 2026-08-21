@@ -91,7 +91,7 @@ Securitisation-Data-Analysis/
 
 ![Verified DTI Distribution](outputs/verified_dti_distribution.png)
 
-## 🗄️ SQL Analysis
+## 🗄️ **SQL Analysis**
 
 The project includes SQL queries for analyzing the securitisation dataset.
 
